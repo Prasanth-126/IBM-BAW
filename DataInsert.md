@@ -649,3 +649,17 @@ tw.local.sqlStatement.sql = "INSERT INTO [bawdbschema].[PK_LOAN_APPLICATION_DATA
                 
    } 
 
+
+
+   <img width="958" height="305" alt="image" src="https://github.com/user-attachments/assets/f7276fd2-d783-4448-b860-5d8305bc2e6f" />
+
+   <img width="959" height="230" alt="image" src="https://github.com/user-attachments/assets/83a6d87e-f41f-4321-82af-47280b3dba11" />
+
+   <img width="785" height="122" alt="image" src="https://github.com/user-attachments/assets/774d43e7-caef-44f1-bc55-066480d94ba4" />
+
+   <img width="956" height="188" alt="image" src="https://github.com/user-attachments/assets/c004a574-4848-47d8-9a5a-d473ac82e63b" />
+
+
+
+
+
