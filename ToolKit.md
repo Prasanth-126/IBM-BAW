@@ -18,10 +18,6 @@ This is the ToolKit UI same as Process App
 
 ==
 
-<img width="959" height="362" alt="image" src="https://github.com/user-attachments/assets/32a45d03-5fe8-4d86-815c-d945e71cf6c8" />
-
-==
-
 <img width="959" height="335" alt="image" src="https://github.com/user-attachments/assets/94dbda20-eaba-4dfa-8352-7e97c3f86e46" />
 
 ==
