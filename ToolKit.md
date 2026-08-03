@@ -1,3 +1,9 @@
+**IBM BAW Toolkit**
+
+A Toolkit in IBM Business Automation Workflow (BAW) is a reusable container of shared artifacts — business objects, services, human services, UI coaches, variables — that multiple Process Applications can depend on. Instead of rebuilding the same logic in every app, you build it once in a Toolkit and reference it wherever it's needed.
+
+Below is a step-by-step walkthrough.
+
 
 Login to Process Center and Click on Toolkit Tab then You can see the Create new ToolKit (Top Right) and Click on it
 
