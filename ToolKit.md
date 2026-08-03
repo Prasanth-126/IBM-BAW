@@ -70,7 +70,8 @@ After Added, Open it and check your coach is available or not
 
 If it is Availble, go to process and Add your Custom toolkit Coach to activity.
 
-<img width="959" height="405" alt="image" src="https://github.com/user-attachments/assets/77be515f-5d07-4b01-9132-69047be97761" />
+<img width="959" height="406" alt="image" src="https://github.com/user-attachments/assets/ebe9de1c-7d5a-45ea-a203-2ff264b5f51b" />
+
 
 
 
