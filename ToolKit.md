@@ -28,7 +28,7 @@ This is the Interface of Coach
 
 <img width="958" height="404" alt="image" src="https://github.com/user-attachments/assets/f19fd4fe-a314-424b-99c6-75b9bb745969" />
 
-Create Variable in Variables tab. Those we can use in Coach view for Data Enter and Hold the Data.
+Create Variables in Variables tab. Then we can use those variables in Coach view for Data Enter and Hold the Data.
 
 <img width="958" height="368" alt="image" src="https://github.com/user-attachments/assets/9e6c2da8-0ac3-4741-9b29-41cddddd80a4" />
 
@@ -72,7 +72,6 @@ If it is Availble, go to process and Add your Custom toolkit Coach to activity.
 
 <img width="959" height="405" alt="image" src="https://github.com/user-attachments/assets/77be515f-5d07-4b01-9132-69047be97761" />
 
-===
 
 
 
