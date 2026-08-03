@@ -4,11 +4,15 @@ Login to Process Center and Click on Toolkit Tab then You can see the Create new
 
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/c649419c-5774-478b-8587-df666734268d" />
 
-===
+
+
+Enter the ToolKit name and Description and click on create.
 
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/7d2f7927-f211-4ba0-a7bc-5269a92cac98" />
 
-==
+
+
+This is the ToolKit UI same as Process App
 
 <img width="959" height="362" alt="image" src="https://github.com/user-attachments/assets/f0eb18ea-d9bb-4dbe-b852-8fb306478aae" />
 
